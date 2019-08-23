@@ -1,0 +1,147 @@
+body{
+    font-family: nunito,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
+
+  
+}
+
+.logo-size{
+    height: 90px;
+    width: 90px;
+
+
+}
+.img-box{position: absolute;
+    z-index: 1;
+    float: left;
+}
+.contact-box{
+    float: right;
+}
+.topbar{
+   border: 1px solid black;
+    height: 91px;
+    background-color: #454B66;
+}
+.phone{
+    font-size: 20px;
+    margin-top: 42px;
+    color: #A3C3D9;
+
+}
+.email-address{
+    font-size: 20px;
+    color: #A3C3D9
+    
+
+}
+/* -----------------end of header-------------------- */
+
+
+/* ---------------nav-bar from here -------------------- */
+
+
+
+.nav-bar{ 
+top: 2px;
+left: 400px;
+    width: 500px;
+     
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+ 
+       
+        position: absolute;
+       z-index: 1;
+      
+        font-family: nunito,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 1;
+        color: black;
+        text-align: left;
+
+
+
+        opacity: 1.5;
+  filter: alpha(opacity=60);
+}
+
+.logo-name{ 
+    position: relative;
+    top: 15px;
+    left: 100px;
+    height:65px;
+    width: 150px;
+    border: 1px solid black;
+
+ 
+    font-weight: 400;
+    opacity: 1.5;
+    filter: alpha(opacity=60);
+}
+
+li{
+ 
+    display:inline-flex;
+}
+
+
+a{ 
+    color:black;
+}
+  /* -------------------main from here ------------------------------- */
+.slider{
+  height: 563px;
+    color: aqua;
+    border:1px solid black;
+
+
+
+
+
+
+
+
+    font-family: nunito,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -------------footer from here ---------- */
+footer{
+    border: 0px solid none;
+    margin: 50px;
+ 
+}
+.contact-box{
+    position: relative;
+    right: 500px;
+    margin-top: 520px;
+}
+.fab fa-twitter-square{
+  height:10px;
+  width:10px;
+}
+.twitter{  
+
+    border: 0px solid none;
+    position: relative;
+    margin-left: 400px;
+  
+}
